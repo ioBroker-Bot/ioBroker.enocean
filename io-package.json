@@ -76,6 +76,7 @@
     "extIcon": "https://raw.githubusercontent.com/jey-cee/ioBroker.enocean/master/admin/enocean.png",
     "readme": "https://github.com/jey-cee/ioBroker.enocean/blob/master/README.md",
     "loglevel": "info",
+    "tier": 2,
     "mode": "daemon",
     "type": "hardware",
     "compact": true,
