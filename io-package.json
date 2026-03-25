@@ -69,7 +69,10 @@
       "EnOcean",
       "Love"
     ],
-    "license": "CC-BY-NC-3.0",
+    "licenseInformation": {
+      "type": "free",
+      "license": "CC-BY-NC-3.0"
+    },
     "platform": "Javascript/Node.js",
     "icon": "enocean.png",
     "enabled": true,
